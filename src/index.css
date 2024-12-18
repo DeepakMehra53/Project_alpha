@@ -78,3 +78,17 @@ p {
     margin-top: 0;
     margin-bottom: 10px
 }
+
+.body.disable-hover {
+    background-image: none;
+}
+.body {
+    background-color: #091a36;
+    background-image: none;
+    background-size: auto;
+    font-family: Mont, sans-serif;
+    color: #fff;
+    font-size: 1vw;
+    font-weight: 400;
+    cursor: auto;
+}

@@ -92,3 +92,7 @@ p {
     font-weight: 400;
     cursor: auto;
 }
+
+body {
+    overflow-x: hidden !important;
+}

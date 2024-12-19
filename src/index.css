@@ -102,3 +102,9 @@ p {
 body {
     overflow-x: hidden !important;
 }
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}

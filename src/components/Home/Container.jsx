@@ -3,7 +3,7 @@ import Nav_wrap from './Nav_wrap'
 import Navigation from './Navigation'
 function Container() {
   return (
-    <div className='container max-w-full pl-10 pr-10 ml-auto mr-auto w-container'>
+    <div className='container max-w-full pl-10 pr-10 mx-auto ml-auto mr-auto w-container '>
         <Nav_wrap/>
         <Navigation/>
     </div>
